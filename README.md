@@ -1,4 +1,4 @@
-Selenium Test for Table Search Functionality
+Validate search functionality on the Selenium Playground website.
 
 Approach
 1. Launches the browser using Chrome WebDriver with automatic management of the driver via webdriver_manager.
